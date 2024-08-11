@@ -23,3 +23,10 @@
 /Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.pdb
 /Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.genruntimeconfig.cache
 /Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/ref/GameStore.Api.dll
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.sourcelink.json
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/bin/Debug/net8.0/MinimalApis.Extensions.dll
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/bin/Debug/net8.0/MiniValidation.dll
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.csproj.AssemblyReference.cache
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/Debug/net8.0/GameStor.5118A84D.Up2Date
