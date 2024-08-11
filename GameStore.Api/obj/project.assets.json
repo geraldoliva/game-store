@@ -2624,11 +2624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectUniqueName": "/Users/geraldoliva/Desktop/net/game-store/GameStore.Api/GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/GameStore.Api.csproj",
+      "projectPath": "/Users/geraldoliva/Desktop/net/game-store/GameStore.Api/GameStore.Api.csproj",
       "packagesPath": "/Users/geraldoliva/.nuget/packages/",
-      "outputPath": "/Users/geraldoliva/Desktop/net/GameStore/GameStore.Api/obj/",
+      "outputPath": "/Users/geraldoliva/Desktop/net/game-store/GameStore.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/geraldoliva/.nuget/NuGet/NuGet.Config"
@@ -2694,7 +2694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
