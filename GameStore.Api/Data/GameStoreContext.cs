@@ -10,7 +10,7 @@ public class GameStoreContext(DbContextOptions<GameStoreContext> options)
 {
   public DbSet<Game> Games => Set<Game>();
 
-  public DbSet<Genre> Genre => Set<Genre>();
+  public DbSet<Genre> Genres => Set<Genre>();
 
   protected override void OnModelCreating(ModelBuilder modelBuilder) 
   {
